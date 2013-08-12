@@ -2,7 +2,8 @@
 
 ## Description
 
-A class to simplify working with the Blipfoto API in a WordPress plugin or theme
+A class to simplify working with the Blipfoto API in a WordPress plugin or theme.
+See http://blipfoto.com and https://developer.blipfoto.com
 
 ## Credits
 
@@ -19,6 +20,8 @@ and also provides various helper functions.
 @TODO@
 
 ## Changelog
+
+@TODO@
 
 ## To do
 
