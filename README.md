@@ -6,6 +6,8 @@ A class to simplify working with the Blipfoto API in a WordPress plugin or theme
 
 See http://blipfoto.com and https://developer.blipfoto.com
 
+Initially created for the [BlipPress](http://wordpress.org/plugins/blippress/) plugin.
+
 ## Credits
 
 By Simon Blackbourn (https://twitter.com/lumpysimon)
@@ -16,11 +18,12 @@ This version uses the WordPress wp_remote_get and wp_remote_post functions inste
 
 ## Usage
 
-@TODO@
+Documentation to come, for now please see the [BlipPress](http://wordpress.org/plugins/blippress/) plugin.
 
 ## Changelog
 
-@TODO@
+= 1.0 =
+* Initial release
 
 ## To do
 
